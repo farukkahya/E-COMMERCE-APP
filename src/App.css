@@ -1,0 +1,177 @@
+
+.product-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 1660px;
+    margin: 0 auto;
+}
+
+.product-detail {
+  display: flex;
+  max-width: 85%;
+  margin: 3rem auto;
+}
+
+.product-detail div:nth-child(2) {
+  padding: 3rem;
+}
+
+.product-detail div:nth-child(2) div {
+  margin-top: 0;
+  display: flex;
+  align-items: center;
+}
+
+.product-detail div:nth-child(2) div h4:nth-child(2) {
+  margin-left: 10rem;
+}
+
+.product-detail div:nth-child(2) button {
+  width: 85%;
+}
+
+#little-pics {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#little-pics img {
+  cursor: pointer;
+  width: min(20%, 30%);
+  margin-right: 5px;
+}
+
+#logoutBtn:hover{
+  background-color: #fff;
+  border: 1px solid red;
+  color: red;
+}
+
+.paginationArea {
+  max-width: 700px;
+  margin: auto;
+  padding: 10px 0 60px 0;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.page-item:not(.threePoints) {
+  margin: 0 6px;
+  border: 2px solid #ecf0f1;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all.2s ease;
+}
+
+.page-item:not(.threePoints, .active):hover {
+  transform: scale(1.1);
+  background-color: #c05621;
+  color: #fff;
+}
+
+.page-item.threePoints {
+  font-size: 28px;
+  line-height: 28px;
+  height: 40px;
+  width: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.page-item:not(:last-child, :first-child, .threePoints) {
+  width: 40px;
+  min-width: 40px;
+  height: 40px;
+  max-height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-item:is(:last-child, :first-child) {
+  height: 40px;
+  max-height: 40px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #c05621;
+  background-color: #ecf0f1;
+}
+
+.page-item:first-child {
+  padding: 0 16px 0 8px;
+}
+
+.page-item:last-child {
+  padding: 0 8px 0 16px;
+}
+
+.page-item.active {
+  background-color: #c05621;
+  color: #fff;
+}
+
+.page-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-link svg {
+  margin-top: 3px;
+}
+
+/** Responsive */
+
+@media (max-width: 576px) {
+  .page-item:not(.threePoints) {
+    font-size: 15px;
+    line-height: 15px;
+    margin: 0 3px;
+  }
+
+  .page-item.threePoints {
+    font-size: 16px;
+    line-height: 16px;
+    height: 32px;
+    width: 32px;
+  }
+
+  .page-item:not(:last-child, :first-child, .threePoints) {
+    width: 32px;
+    min-width: 32px;
+    height: 32px;
+    max-height: 32px;
+  }
+
+  .page-link span {
+    display: none;
+  }
+
+  .page-link svg {
+    margin-top: 0px;
+  }
+
+  .page-item:is(:last-child, :first-child) {
+    height: 32px;
+    max-height: 32px;
+    min-width: 32px;
+    padding: 0;
+  }
+}

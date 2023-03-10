@@ -1,0 +1,522 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Apple",
+      "title": "Mackbook Pro",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/6/900/500",
+        "https://picsum.photos/id/8/900/500"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 12,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 13,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 14,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 15,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 16,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 17,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 18,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 19,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 20,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 21,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 22,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 23,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 24,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 25,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 26,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 27,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 28,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 29,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 30,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 31,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 32,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 33,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 34,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 35,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 36,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 37,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 38,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 39,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 40,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    },
+    {
+      "id": 41,
+      "brand": "Apple",
+      "title": "Mackbook",
+      "description": "This is a Mackbook.",
+      "price": 600,
+      "createdAt": "2023-01-19T15:46:00.000Z",
+      "photos": [
+        "https://picsum.photos/id/1/900/500",
+        "https://picsum.photos/id/2/900/500"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "ea87f397-70db-47c5-b111-d15e23b45658",
+      "name": "Faruk Kahya",
+      "email": "deneme@deneme.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "b4371afa-b7c1-434c-bf78-2e3b93bdae38",
+      "name": "Faruk Kahya",
+      "email": "manyakoyuncuhd1@gmail.com",
+      "password": "12345",
+      "role": "user"
+    },
+    {
+      "id": "27d6a82f-bcd7-402e-96bd-4be3a878f80a",
+      "name": "Faruk Kahya",
+      "email": "asd@a.com",
+      "password": "12345",
+      "role": "user"
+    }
+  ],
+  "orders": {
+    "name": "typicode"
+  }
+}
